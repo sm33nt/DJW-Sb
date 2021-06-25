@@ -9,7 +9,7 @@
 
 ## Intro
 
-[Commercial / Trailer of the bot or whatever](https://youtu.be/1Vy0K353Vag)
+[Old, outdated trailer (looks much more polsihed now / handful of more commands)](https://youtu.be/1Vy0K353Vag)
 
 This selfbot was once paid, and boasts over 150 commands. Some commands may resemble Dank Memer's because this project originally started as a Dank Memer clone (but as a selfbot, which can also be found on my GitHub), but this more general purpose bot branched off into it's own project. This bot is finished and will no longer be updated as I am out of ideas and bored of making these.
 
