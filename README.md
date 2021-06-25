@@ -4,7 +4,7 @@
 # DJW Selfbot
 > Sweet Discord selfbot with loads of powerful utilities, eye-popping themes, and a nitro sniper
 
-<img src="https://i.imgur.com/gGtWoIK.png" width="700">
+<img src="https://i.imgur.com/ojuj6Gr.png" width="700">
 
 
 ## Intro
