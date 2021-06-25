@@ -1,5 +1,4 @@
 [Please read this, you **will** get this error](https://github.com/D7W/DJW-Sb/blob/main/README.md#why-am-i-getting-typeerror-cannot-read-property-id-of-undefined) \n
-[Commercial / Trailer of the bot or whatever](https://youtu.be/1Vy0K353Vag)
 
 
 # DJW Selfbot
@@ -9,6 +8,9 @@
 
 
 ## Intro
+
+[Commercial / Trailer of the bot or whatever](https://youtu.be/1Vy0K353Vag)
+
 This selfbot was once paid, and boasts over 150 commands. Some commands may resemble Dank Memer's because this project originally started as a Dank Memer clone (but as a selfbot, which can also be found on my GitHub), but this more general purpose bot branched off into it's own project. This bot is finished and will no longer be updated as I am out of ideas and bored of making these.
 
 Selfbots **are** against TOS and you should be warned before using this. I have personally never been banned for selfbotting (though, I was once disabled experimenting, when I had tried to change my profile picture through the bot - simply verfying my number fixed this).
