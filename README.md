@@ -58,7 +58,7 @@ Watch the video [here](https://youtu.be/1Vy0K353Vag), too lazy to list all the c
 
 # Gallary
 
-| Mass Delete Channels | Mass Create Channels | Mass Roles |
+
 | ------------- | ------------- | ------------- |
 | ![mass delete 1](https://user-images.githubusercontent.com/71920969/94821935-0b3a2780-03fa-11eb-8a43-3fb418e373ba.gif) | ![mass channels lol](https://user-images.githubusercontent.com/71920969/94822362-7683f980-03fa-11eb-9759-906d649b6021.gif) | ![massroles](https://media3.giphy.com/media/StXIhkIQKb8sEdXjPj/giphy.gif) |
 
