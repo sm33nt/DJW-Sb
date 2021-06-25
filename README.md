@@ -1,2 +1,11 @@
-# DJW-Sb
-My polished Discord Selfbot. Once paid, now open source. It's still not so great so please DM djw#1111 if you encounter any issues.
+Please read through. You **will** encounter errors otherwise.
+
+
+# DJW Selfbot
+> Sweet Discord selfbot with loads of powerful utilities
+
+
+
+## Intro
+
+This bot is stupid and just another unoriginal general purpose bot but may be useful as a modern up-to-date base for your very own Discord bot. Featuring buttons and other new cool stuff, this bot stands out. You will need to purchase your own hosting if you would like to have the bot up at all times. Heroku provides free (limited) hosting. Check it out [here](https://www.heroku.com).
