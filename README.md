@@ -1,10 +1,11 @@
 [Please read this, you **will** get this error](https://github.com/D7W/DJW-Sb/blob/main/README.md#why-am-i-getting-typeerror-cannot-read-property-id-of-undefined)
+[Commercial / Trailer of the bot or whatever](https://youtu.be/1Vy0K353Vag)
 
 
 # DJW Selfbot
 > Sweet Discord selfbot with loads of powerful utilities and eye-popping themes 
 
-[![youtube](https://img.youtube.com/vi/1Vy0K353Vag/0.jpg)](https://www.youtube.com/watch?v=1Vy0K353Vag)
+
 
 
 ## Intro
