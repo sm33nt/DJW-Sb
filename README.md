@@ -5,7 +5,7 @@
 > Sweet Discord selfbot with loads of powerful utilities and eye-popping themes 
 
 ![img](https://i.imgur.com/HT82nT3.jpg =250x250)
-
+<img src="https://i.imgur.com/HT82nT3.jpg =250x250" width="48">
 
 
 ## Intro
