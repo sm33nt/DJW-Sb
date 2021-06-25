@@ -21,7 +21,7 @@ You **will** have to do this or the selfbot will not run. I'm too lazy to publis
 
 ## Themes
 
-Themes are one of this bot's more unique features, and comes with 9 pre-made themes. It's very easy to create your own theme using the format : 
+Themes are one of this bot's more unique features, and comes with 8 pre-made themes. It's very easy to create your own theme using the format : 
 
 ```
 {
@@ -31,4 +31,14 @@ Themes are one of this bot's more unique features, and comes with 9 pre-made the
 "footer":"footer"
 }
 ```
+The bot comes with the following pre-made themes :
 
+  - 1337
+  - Allah
+  - Default
+  - KFC
+  - Lambo
+  - McDonalds
+  - Mercedes
+  - Starbucks
+ 
