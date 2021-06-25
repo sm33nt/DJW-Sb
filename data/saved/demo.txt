@@ -1,0 +1,5 @@
+These are where all your saved messages are stored
+You can save a message by using the command (prefix)save (message ID) (file name)
+Example : !save 850547227105689660 savedmsg
+
+You can delete this file
