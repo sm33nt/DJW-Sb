@@ -1,4 +1,5 @@
 Please read through. You **will** encounter errors otherwise.
+https://github.com/D7W/DJW-Sb/blob/main/README.md#intro
 
 
 # DJW Selfbot
