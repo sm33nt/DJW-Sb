@@ -1,0 +1,11 @@
+These are where all your themes are stored.
+To create your own theme, create a new json file and use the following template : 
+
+{
+"title":"title",
+"color":"hex_code_color",
+"thumbnail":"image_address,
+"footer":"footer"
+}
+
+Then, start the selfbot and run (prefix)settheme (theme/file name).
