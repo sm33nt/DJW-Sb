@@ -9,7 +9,6 @@ This selfbot was once paid, and boasts over 150 commands. Some commands may rese
 
 Selfbots **are** against TOS and you should be warned before using this. I have personally never been banned for selfbotting (though, I was once disabled experimenting, when I had tried to change my profile picture through the bot - simply verfying my number fixed this).
 
-
 ## Why am I getting "TypeError: Cannot read property 'id' of undefined"?
 
 This is a weird kink and I do not know why it happens, but there is a simple fix. Navigate to the folder `node_modules` -> `discord.js` -> `src` -> `client` and crack open the js file `ClientDataManager`. Paste `if(channel != null)` before line 81, like this :
@@ -19,3 +18,17 @@ This is a weird kink and I do not know why it happens, but there is a simple fix
 
 
 You **will** have to do this or the selfbot will not run. I'm too lazy to publish a edited npm module for something small.
+
+## Themes
+
+Themes are one of this bot's more unique features, and comes with 9 pre-made themes. It's very easy to create your own theme using the format : 
+
+```
+{
+"title":"title",
+"color":"hex_code_color",
+"thumbnail":"image_address,
+"footer":"footer"
+}
+```
+
