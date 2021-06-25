@@ -9,3 +9,5 @@ To create your own theme, create a new json file and use the following template 
 }
 
 Then, start the selfbot and run (prefix)settheme (theme/file name).
+
+You can delete this file.
