@@ -61,7 +61,7 @@ Watch the video [here](https://youtu.be/1Vy0K353Vag), too lazy to list all the c
 
 | Calculator | Geoip | IP Logger (broken now rip) |
 | ------------- | ------------- | ------------- | 
-| ![calculator](https://i.imgur.com/xT1oRci.png) | ![Geoip](https://i.imgur.com/Ga82cwg.png) | ![logger](https://i.imgur.com/6sK5NRI.png) |
+| ![calculator](https://i.imgur.com/xT1oRci.png) | ![Geoip](https://i.imgur.com/Ga82cwg.png) | ![logger](https://i.imgur.com/6sK5NRI.png) | ![logger](https://i.imgur.com/6sK5NRI.png) |
 
 
  
