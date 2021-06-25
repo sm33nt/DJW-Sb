@@ -2,7 +2,7 @@
 
 
 # DJW Selfbot
-> Sweet Discord selfbot with loads of powerful utilities and eye-popping themes 
+> Sweet Discord selfbot with loads of powerful utilities, eye-popping themes, and a nitro sniper
 
 <img src="https://i.imgur.com/gGtWoIK.png" width="700">
 
@@ -47,4 +47,8 @@ The bot comes with the following pre-made themes :
   - McDonalds
   - Mercedes
   - Starbucks
+
+## Commands
+
+Watch the video [here](https://youtu.be/1Vy0K353Vag).
  
