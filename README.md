@@ -4,7 +4,8 @@
 # DJW Selfbot
 > Sweet Discord selfbot with loads of powerful utilities and eye-popping themes 
 
-https://www.youtube.com/watch?v=1Vy0K353Vag
+[![youtube](https://img.youtube.com/vi/YOUTUBE_1Vy0K353Vag/0.jpg)](https://www.youtube.com/watch?v=1Vy0K353Vag)
+
 
 ## Intro
 This selfbot was once paid, and boasts over 150 commands. Some commands may resemble Dank Memer's because this project originally started as a Dank Memer clone (but as a selfbot, which can also be found on my GitHub), but this more general purpose bot branched off into it's own project. This bot is finished and will no longer be updated as I am out of ideas and bored of making these.
