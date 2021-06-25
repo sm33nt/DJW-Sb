@@ -1,4 +1,4 @@
-[Please read this, you **will** get this error](https://github.com/D7W/DJW-Sb/blob/main/README.md#why am i getting "typeError: cannot read property 'id' of undefined"?)
+[Please read this, you **will** get this error](https://github.com/D7W/DJW-Sb/blob/main/README.md#why-am-i-getting-typeerror-cannot-read-property-id-of-undefined)
 
 
 # DJW Selfbot
