@@ -50,5 +50,5 @@ The bot comes with the following pre-made themes :
 
 ## Commands
 
-Watch the video [here](https://youtu.be/1Vy0K353Vag).
+Watch the video [here](https://youtu.be/1Vy0K353Vag), too lazy to list all the commands here.
  
