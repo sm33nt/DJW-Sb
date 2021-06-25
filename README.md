@@ -4,7 +4,7 @@
 # DJW Selfbot
 > Sweet Discord selfbot with loads of powerful utilities and eye-popping themes 
 
-[![youtube](https://img.youtube.com/vi/YOUTUBE_1Vy0K353Vag/0.jpg)](https://www.youtube.com/watch?v=1Vy0K353Vag)
+[![youtube](https://img.youtube.com/vi/1Vy0K353Vag/0.jpg)](https://www.youtube.com/watch?v=1Vy0K353Vag)
 
 
 ## Intro
