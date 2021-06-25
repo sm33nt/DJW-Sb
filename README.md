@@ -60,9 +60,8 @@ Watch the video [here](https://youtu.be/1Vy0K353Vag), too lazy to list all the c
 
 
 | Calculator | Geoip | IP Logger (broken now rip) | Message Saving Thing |
-| ------------- | ------------- | ------------- | ------------- | 
 | ![calculator](https://i.imgur.com/xT1oRci.png) | ![geoip](https://i.imgur.com/Ga82cwg.png) | ![logger](https://i.imgur.com/6sK5NRI.png) | ![msg](https://i.imgur.com/cCfY5Kp.png) |
-
+| ------------- | ------------- | ------------- | ------------- | 
 | ![calculator](https://i.imgur.com/xT1oRci.png) | ![geoip](https://i.imgur.com/Ga82cwg.png) | ![logger](https://i.imgur.com/6sK5NRI.png) | ![msg](https://i.imgur.com/cCfY5Kp.png) |
 
  
