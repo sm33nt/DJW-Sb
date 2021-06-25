@@ -4,7 +4,7 @@
 # DJW Selfbot
 > Sweet Discord selfbot with loads of powerful utilities and eye-popping themes 
 
-<img src="https://i.imgur.com/d0X69y2.jpg" width="550">
+<img src="https://i.imgur.com/gGtWoIK.png" width="600">
 
 
 ## Intro
