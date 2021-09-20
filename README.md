@@ -21,13 +21,13 @@ Download the selfbot as a zip onto your desktop, extract, then open it. Open com
 
 ## Why am I getting "TypeError: Cannot read property 'id' of undefined"?
 
-This is a weird kink and I do not know why it happens, but there is a simple fix. Navigate to the folder `node_modules` -> `discord.js` -> `src` -> `client` and crack open the js file `ClientDataManager`. Paste `if(channel != null)` before line 81, like this :
+There is a simple fix. Navigate to the folder `node_modules` -> `discord.js` -> `src` -> `client` and crack open the js file `ClientDataManager`. Paste `if(channel != null)` before line 81, like this :
 
 
 ![Fix](https://i.imgur.com/b9hpwjo.png)
 
 
-You **will** have to do this or the selfbot will not run. I'm too lazy to publish a edited npm module for something small. You should be able to finally run the bot.
+You **will** have to do this or the selfbot will not run. You should be able to finally run the bot.
 
 ## Themes
 
